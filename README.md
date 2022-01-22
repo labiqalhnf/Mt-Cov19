@@ -1,2 +1,4 @@
 # My-Final-Project
 Design of Air Circulation Control System and Store Customer Restriction During the COVID-19 Pandemic Based on IoT and Sugeno Fuzzy Logic
+
+The emergence of the COVID-19 pandemic in early 2020 had a major impact on human life on a global scale. Many actions and policies are aimed at anticipating transmission and breaking the chain of the spread of the COVID-19 virus, thus requiring store owners to implement various health protocols. This study discusses the monitoring system for the condition of the storeroom in real-time with the IoT concept, and the implementation of Sugeno fuzzy logic in controlling the speed of the exhaust fan motor to circulate air in the room and limit the number of customers during the COVID-19 pandemic based on conditions of temperature, humidity, and many people in the storeroom.
